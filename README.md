@@ -1,6 +1,6 @@
 # Frontend
 
-##1. 개요
+## 1. 개요
  * html, css, js
  * 웹앱의 동작원리
  * 웹 표준과 브라우저
@@ -8,11 +8,11 @@
  * 특수기호
  * 오픈소스 라이선스
 
-##2. VSCode
+## 2. VSCode
  * 플러그인 설치
  * Live Server
 
-##3. 무작정 시작하기
+## 3. 무작정 시작하기
  * Doctype
  * html, head, body
  * css, js 연결
