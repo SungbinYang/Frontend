@@ -49,3 +49,24 @@
  * 선택자 속성
  * 스타일 상속
  * 선택자 우선순위
+
+## 8. css 속성
+ * 개요
+ * 너비(width, height)
+ * css 단위
+ * margin
+ * padding
+ * 테두리 선과 색상 표현
+ * 크기 계산(box-sizing)
+ * overflow
+ * display
+ * 투명도
+ * 글꼴
+ * 문자
+ * 배경
+ * 배치
+ * flex Container
+ * flex items
+ * 전환
+ * 변환
+ * Overwatch 캐릭터 선택 예제
