@@ -168,12 +168,13 @@ p {
     text-indent: -50px;
 } */
 
-body {
+
+/* body {
     height: 3000px;
 }
 
 div {
-    /* width: 200px; */
+    width: 200px;
     height: 200px;
     background-color: orange;
     background-image: url("https://heropy.blog/css/images/logo.png");
@@ -181,4 +182,59 @@ div {
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+} */
+
+
+/* .container {
+    width: 300px;
+    background-color: royalblue;
+    position: relative;
+}
+
+.container .item {
+    width: 100px;
+    height: 100px;
+    border: 4px dashed red;
+    background-color: orange;
+}
+
+.container .item:nth-child(1) {
+    position: relative;
+    z-index: 1;
+}
+
+.container .item:nth-child(2) {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+.container .item:nth-child(3) {
+    position: fixed;
+    z-index: 1;
+} */
+
+
+/* span {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    font-size: 40px;
+} */
+
+.container {
+    width: 500px;
+    height: 300px;
+    background-color: royalblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .item {
+    width: 100px;
+    height: 100px;
+    border: 3px dashed red;
+    background-color: orange;
 }
