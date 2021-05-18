@@ -267,11 +267,17 @@ body {
     width: 100px;
     height: 100px;
     background-color: royalblue;
+    perspective: 250px;
 }
 
 .container .item {
     width: 100px;
     height: 100px;
     background-color: orange;
-    transform: rotate(45deg) scale(1.3);
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: rotateY(180deg);
+    backface-visibility: hidden;
 }
