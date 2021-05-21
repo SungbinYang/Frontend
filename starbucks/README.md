@@ -49,6 +49,6 @@
          url : https://fonts.google.com/icons
    
    - 헤더와 드롭다운 메뉴
-      * 로고 생성
+      * 로고 생성 ( 가운데 정렬 및 배치 )
       * 서브메뉴 생성
   
