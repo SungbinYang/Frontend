@@ -56,3 +56,4 @@
       * lodash.js, gsap.js 라이브러리를 이용한 badges 이미지 ( 전역 배지 ) 생성 및 스크롤 시 사라지는 기능 추가
    - 순차적 애니메이션 적용
       * visual section 전역버튼 스타일 적용 
+      * gsap.js 라이브러리를 이용하여 visual section에 있는 요소들 순차적으로 보이게 하기
