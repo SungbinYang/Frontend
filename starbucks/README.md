@@ -61,3 +61,4 @@
       * 공지사항 프레임 제작 및 스타일 적용
       * Swiper.min.js , Swiper.min.css 라이브러리를 이용하여 요소 수직 슬라이드 구현
          * url : https://swiperjs.com/get-started
+      * 요소 슬라이드 가운데 배치하기
