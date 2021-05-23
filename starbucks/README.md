@@ -62,3 +62,4 @@
       * Swiper.min.js , Swiper.min.css 라이브러리를 이용하여 요소 수직 슬라이드 구현
          * url : https://swiperjs.com/get-started
       * 요소 슬라이드 가운데 배치하기
+      * 프로모션 이미지 슬라이드
