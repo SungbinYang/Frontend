@@ -73,3 +73,4 @@
          * url : https://greensock.com/docs/v2/Easing
          * docs : https://greensock.com/docs/v3/GSAP/gsap.to()
    - 고정 이미지 배경 적용 
+   - 리저브 이미지에 3D 애니메이션 효과 나타내기
