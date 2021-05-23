@@ -63,3 +63,4 @@
          * url : https://swiperjs.com/get-started
       * 요소 슬라이드 가운데 배치하기
       * 프로모션 이미지 슬라이드
+      * 슬라이드 영욕 토글
