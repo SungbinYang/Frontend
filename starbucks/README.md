@@ -77,3 +77,4 @@
    - 스크롤 위치 계산 애니메이션 적용
       * url : https://cdnjs.com/libraries/ScrollMagic
    - 다중 요소 슬라이드 구현
+   - 푸터 영역 제작
