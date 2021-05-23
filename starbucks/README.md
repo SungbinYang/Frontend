@@ -66,3 +66,6 @@
       * 슬라이드 영욕 토글
    - 유튜브 영상 배경
       * 리워즈 부분 생성 
+      * Youtube iframe API 적용하기
+         * url : https://developers.google.com/youtube/iframe_api_reference?hl=ko
+         * playerVars 종류 : https://developers.google.com/youtube/player_parameters.html?playerVersion=HTML5&hl=ko#Parameters
