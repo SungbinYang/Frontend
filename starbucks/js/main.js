@@ -135,3 +135,7 @@ spyEls.forEach(function(spyEl) {
         .setClassToggle(spyEl, 'show')
         .addTo(new ScrollMagic.Controller());
 });
+
+// 현재 연도 구하기
+const thisYear = document.querySelector('.this-year');
+thisYear.textContent = new Date().getFullYear();
