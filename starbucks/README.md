@@ -75,3 +75,5 @@
    - 고정 이미지 배경 적용 
    - 리저브 이미지에 3D 애니메이션 효과 나타내기
    - 스크롤 위치 계산 애니메이션 적용
+      * url : https://cdnjs.com/libraries/ScrollMagic
+   - 다중 요소 슬라이드 구현
