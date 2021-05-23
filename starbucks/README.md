@@ -72,3 +72,4 @@
       * floating image 반복 애니메이션 구현하기
          * url : https://greensock.com/docs/v2/Easing
          * docs : https://greensock.com/docs/v3/GSAP/gsap.to()
+   - 고정 이미지 배경 적용 
