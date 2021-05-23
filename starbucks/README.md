@@ -78,3 +78,5 @@
       * url : https://cdnjs.com/libraries/ScrollMagic
    - 다중 요소 슬라이드 구현
    - 푸터 영역 제작
+   - gsap 라이브러리중 ScrollToPlugin을 이용하여 페이지 상단으로 이동하는 버튼 생성
+      * url : https://cdnjs.com/libraries/gsap
