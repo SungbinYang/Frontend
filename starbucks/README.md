@@ -69,3 +69,6 @@
       * Youtube iframe API 적용하기
          * url : https://developers.google.com/youtube/iframe_api_reference?hl=ko
          * playerVars 종류 : https://developers.google.com/youtube/player_parameters.html?playerVersion=HTML5&hl=ko#Parameters
+      * floating image 반복 애니메이션 구현하기
+         * url : https://greensock.com/docs/v2/Easing
+         * docs : https://greensock.com/docs/v3/GSAP/gsap.to()
